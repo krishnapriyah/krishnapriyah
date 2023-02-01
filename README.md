@@ -1,7 +1,7 @@
 # Hey there👋, Welcome to my Github Profile
 
 <img src="https://readme-typing-svg.herokuapp.com?
-font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Krishna Priya;Thanks+for+visiting!+..&hearts;++;Self-taught+Disciple,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..Active+Open+Source+Contributor..."/>
+<p>font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Thanks+for+visiting!+..&hearts;++;Self-taught+Disciple,;Computer+Science+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"</p>
  
  <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
 
