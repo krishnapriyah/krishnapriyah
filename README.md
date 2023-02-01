@@ -68,27 +68,16 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
 
 <!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
+#### Environments
+
+
+ ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for -the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
 
 
      
 </td>
     <td>
   
-## 📄📜 Stats
-
-
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=kaustav202&theme=algolia&show_icons=true&bg_color=transparent&title_color=navy&text_color=black" />
- </br>
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustav202"/>
- </br>
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaustav202&exclude_repo=Portfolio,HomePal&langs_count=7&layout=compact&bg_color=transparent" />
-</p>
-     
-  </td>
- </tr>
-</table>
-
 
 <!--
 #### Cloud Infrastructures
@@ -99,15 +88,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)&nbsp;
 
 
-#### Environments
 
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=flat&logo=anaconda&logoColor=white)&nbsp;
-![Spyder](https://img.shields.io/badge/Spyder%20Ide-FF0000?style=flat&logo=spyder%20ide&logoColor=white)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flate&logo=PyCharm&logoColor=white)&nbsp;
-![Replit](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)&nbsp;
-![R Studio](https://img.shields.io/badge/RStudio-75AADB?style=flat&logo=RStudio&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)&nbsp;
 -->
 
 
@@ -131,32 +112,6 @@
 -->
 
 </br>
-
-<!--
-
-<details>
-
-  <summary> <h3> Post Links </h3> </summary>
-
-  </br>
-
-  <a href = "#" > <img src = "https://img.shields.io/static/v1?message=QnA&logo=StackOverflow&labelColor=F58025&color=white&logoColor=white&label=Stack%20Overflow&style=plastic"/></a>
- 
-  
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Communinty&logo=dev.to&labelColor=0A0A0A&color=white&logoColor=white&label=dev.to&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Blog%20Post&logo=GeeksforGeeks&labelColor=2F8D46&color=white&logoColor=white&label=gfg&style=plastic"/></a>
- 
- 
- <a href = "#" > <img src = "https://img.shields.io/static/v1?message=Articles&logo=Medium&labelColor=000000&color=white&logoColor=white&label=Medium&style=plastic"/></a>
-
-
-  
-</details>
-
--->
-
 
 
 <!-- 
@@ -276,29 +231,7 @@ Featured Repositories.
  
  
 
-  
-<!-- ## Here are some highlights of my open source journey 
-
- ### - Activity Smmary and Overview
-
-## Here are some of my works
- -->
-
-</br>
-</br>
-
-## &nbsp; &nbsp; 🗓️&nbsp; &nbsp;   Contribution Calender and Radar
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img width="80%" align="center" src ="profile-3d-contrib/profile-customize.svg"/>
-
-
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; <img  width="70%" align="center" src="https://activity-graph.herokuapp.com/graph?username=kaustav202&custom_title=Recent%20Contribution%20Graph&bg_color=ffffff&color=aab2fe&line=6498b0&point=FFFFFF&theme=react-dark&hide_border=true&area=true&hide_title=true"/>
-
-
-</br>
-
-  <table  >
- <tr>
+ 
   
 
 
@@ -306,12 +239,6 @@ Featured Repositories.
 
    <h3>  &nbsp; &nbsp; 📙📘 &nbsp;Recent Articles and Blog Posts  </h3>
 
-   
-<!-- BLOG-POST-LIST:START -->
-- [Take your GitHub profile from zero to hero with these 10 hacks](https://medium.com/@kaustav_g/take-your-github-profile-from-zero-to-hero-with-these-10-hacks-b6b5ffe3d065?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a software developer Part2](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part2-656cab3f4a82?source=rss-d1e37ddd01e4------2)
-- [How Open Source can be only thing you need to kickstart your journey as a  software developer Part1](https://medium.com/@kaustav_g/how-open-source-can-be-only-thing-you-need-to-kickstart-your-journey-as-a-software-developer-part1-5529c29e3a8b?source=rss-d1e37ddd01e4------2)
-<!-- BLOG-POST-LIST:END -->
 
   </td>
   
@@ -328,14 +255,14 @@ Featured Repositories.
 ## &nbsp; &nbsp; &nbsp;🔥 My Motto
 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(kaustav202);....+s.explore();....+s.learn();....+s.contribute()"/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img  src="https://readme-typing-svg.herokuapp.com?font=Soucre+Code+Pro&duration=1700&color=12263A&background=ffffff&multiline=true&width=650&height=220&lines=while(true);..+brain.init();..+if(+world.contains(open_source));....++s+%3D+open_source.login(Krishna Priya);....+s.explore();....+s.learn();....+s.contribute()"/>
 
 
 
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{kaustav202}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{krishnapriyah}/count.svg" /></p> 
 <br>
 </div>
  
