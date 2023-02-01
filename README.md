@@ -18,21 +18,16 @@
 
 </br>
 
-- 🔧 I’m currently working on ...Online Retail Community App.
+- 🔧 I’m currently working on ...Web Technologies.
 
-- 💡 I’m curious about ...Blockchain and Crypto Currency.
-- 📖 I’m currently learning ...Flask.
-- ❄️ I’m looking to collaborate on ...Open Source Projects.
-- 📫 How to reach me ...gkaustav57@gmail.com.
+- 💡 I’m curious about ...Dbms and Mysql.
+- 📖 I’m currently learning ...Azure.
+- ❄️ I’m looking to collaborate on ...Open Source Projects and Cloud Technologies.
+- 📫 How to reach me ...priya.magapu.sk@gmail.com.
 
 <hr>
 
-<!---
 
-kaustav202/kaustav202 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
 
 
 </br>
