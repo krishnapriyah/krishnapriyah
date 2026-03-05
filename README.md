@@ -3,7 +3,7 @@
 <h3 align="center"><b>Hi , I'm Krishna Priya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
 
 <p align="center">
-  <a href="Turning raw data into actionable insights.">"Turning raw data into actionable insights."</a>
+  "Turning raw data into actionable insights."
 </p>
 
 
