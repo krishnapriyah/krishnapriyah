@@ -3,7 +3,7 @@
 <h3 align="center"><b>Hi , I'm Krishna Priya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="Turning raw data into actionable insights."</a>
+  <a href="Turning raw data into actionable insights."></a>
 </p>
 
 
