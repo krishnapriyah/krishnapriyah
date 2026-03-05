@@ -9,7 +9,7 @@
 
 <br>
  
- <p>- <i>Data Analyst with 2+ years of experience leveraging SQL, Power BI, and Python to transform raw data into measurable business insights. Specialized in building dashboards, optimizing queries, and improving data quality across manufacturing and finance domains. Known for reducing manual effort, improving reporting accuracy, and delivering analytics that support strategic decision-making.</i></p>
+ <p> <i>Data Analyst with 2+ years of experience leveraging SQL, Power BI, and Python to transform raw data into measurable business insights. Specialized in building dashboards, optimizing queries, and improving data quality across manufacturing and finance domains. Known for reducing manual effort, improving reporting accuracy, and delivering analytics that support strategic decision-making.</i></p>
 
 
 # About Me
