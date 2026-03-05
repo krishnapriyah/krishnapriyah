@@ -1,19 +1,14 @@
 # Hey there👋, Welcome to my Github Profile
-
 <h3 align="center"><b>Hi Buddy, I'm Krishna Priya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
-
 <p align="center">
   "Turning raw data into actionable insights."
 </p>
 <br>
- 
  <p> <i>Data Analyst with 2+ years of experience leveraging SQL, Power BI, and Python to transform raw data into measurable business insights. Specialized in building dashboards, optimizing queries, and improving data quality across manufacturing and finance domains. Known for reducing manual effort, improving reporting accuracy, and delivering analytics that support strategic decision-making.</i></p>
-
-
+ 
 # About Me
 
 </br>
-
 - 🔧 I’m currently working on ...Web Technologies.
 
 - 💡 I’m curious about ...Dbms and Mysql.
