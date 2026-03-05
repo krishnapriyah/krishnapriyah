@@ -9,12 +9,12 @@
 
 <br>
  
- <p>- <i>A comp-sci undergraduate student and a aspiring software developer with good problem-solving skills. Able to perform well in a team. Passionate about coding and equipped with a diverse and promising skill-set, placing a special emphasis on writing good quality code. Also regularly write technical content and articles for various popular tech sites.</i></p>
+ <p>- <i>Data Analyst with 2+ years of experience leveraging SQL, Power BI, and Python to transform raw data into measurable business insights. Specialized in building dashboards, optimizing queries, and improving data quality across manufacturing and finance domains. Known for reducing manual effort, improving reporting accuracy, and delivering analytics that support strategic decision-making.</i></p>
 
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 350px></picture>
 
-## ⚡🙋‍♂️ About Me
+# About Me
 
 </br>
 
