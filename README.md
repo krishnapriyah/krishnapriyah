@@ -28,7 +28,7 @@
  ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
 
 #### Data Visualization
- ![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=white)&nbsp;
+ ![Power BI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=white)&nbsp;
 
 #### Tools and Technologies
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)&nbsp;
@@ -40,9 +40,10 @@
 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)&nbsp;
 <br />
-
+#### Environments
+![VS code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 </br>
-
 
 <!-- 
 # Featured Repositories 🚀
