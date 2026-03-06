@@ -20,7 +20,7 @@
  <tr>
     <td width="60%">
      
-## 🛠️ Skills
+##  Skills
 
 #### Languages & Databases
  ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
@@ -45,7 +45,7 @@
 
 
 
-##  Certifications
+## Certifications
 
 | Certificate | Issuer | Year |Verify this at coursera|
 |---|---|---|---|
