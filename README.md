@@ -24,19 +24,14 @@
 
 #### Languages & Databases
  ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
- ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+ ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
  ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+ ![Snowflake Badge](https://img.shields.io)&nbsp;
 
 #### Data Visualization
  ![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)&nbsp;
 #### Tools and Technologies
-
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-
-<!-- ![PyPI](https://img.shields.io/badge/pypi-3775A9?style=flat&logo=pypi&logoColor=white)&nbsp; -->
 #### Environments
 
 
