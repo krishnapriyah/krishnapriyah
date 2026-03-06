@@ -10,10 +10,10 @@
 
 </br>
 - Currently working on: [Data Analyst] </br>
--💼 Open to: Freelance / Full-time opportunities </br>
--📍 Based in: [Hyderabad,India]
--📫 Reach me at: priya.magapu.sk@gmail.com
--🔗 LinkedIn: [linkedin.com/in/yourprofile]
+- Open to: Freelance / Full-time opportunities </br>
+- Based in: [Hyderabad,India] </br>
+- Reach me at: priya.magapu.sk@gmail.com </br>
+- LinkedIn: [linkedin.com/in/yourprofile] </br>
 <hr>
 </br>
 <table width="100%" >
