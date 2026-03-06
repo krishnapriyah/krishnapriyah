@@ -32,7 +32,7 @@
 
 #### Tools and Technologies
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)&nbsp;
-
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-green?style=flat-square&logo=google&logoColor=white)&nbsp;
       
 #### Cloud Infrastructures
 
