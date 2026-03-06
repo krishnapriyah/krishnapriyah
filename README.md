@@ -25,40 +25,26 @@
 #### Languages & Databases
  ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
- [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)&nbsp;
  ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
- ![Snowflake Badge](https://img.shields.io)&nbsp;
 
 #### Data Visualization
  ![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)&nbsp;
+ [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)]&nbsp;
 #### Tools and Technologies
+![Excel]<i class="fas fa-file-excel"></i>
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)]
+
 #### Environments
 
-
  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for -the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-
-
      
 </td>
     <td>
-  
-
-<!--
+      
 #### Cloud Infrastructures
 
-![Firebase](https://img.shields.io/badge/firebase-%23ED7A00.svg?style=flat&logo=firebase&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)&nbsp;
-
-
-
--->
-
-
-<!--
-
+[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)]&nbsp 
 <br />
 
 <details>
