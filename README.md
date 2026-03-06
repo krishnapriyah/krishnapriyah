@@ -19,6 +19,7 @@
 <table width="100%" >
  <tr>
     <td width="60%">
+
      
 ##  Skills
 
