@@ -25,12 +25,10 @@
 #### Languages & Databases
  ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)&nbsp;
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
+ ![SSMS](https://img.shields.io/badge/SSMS-0078D4?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)&nbsp;
+
 #### Data Visualization
- ![PowerBI](https://img.shields.io/badge/Linux-05122A?style=for-the-badge&logo=linux&logoColor=white)&nbsp;
-
-
-
-
+ ![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)&nbsp;
 #### Tools and Technologies
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
