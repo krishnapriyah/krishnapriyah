@@ -49,8 +49,8 @@
 
 | Certificate | Issuer | Year |
 |---|---|---|
-| 📊 Google Data Analytics Professional Certificate | Google / Coursera | 2024 |
-| 🐍 Python for Everybody | Coursera | 2023 |
+|  Google Data Analytics Professional Certificate | Google / Coursera | 2024 |
+|  Python for Everybody | Coursera | 2023 |
 
 > 🔗 *View verified certificates on my [LinkedIn](https://www.linkedin.com/in/krishna-priya-magapu/)*
 
@@ -60,7 +60,7 @@
 
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 
 ---
 
