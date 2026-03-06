@@ -29,22 +29,18 @@
 
 #### Data Visualization
  ![PowerBI](https://img.shields.io/badge/Power_Bi-F2C811?style=flat-square&logo=codeforces&logoColor=black)&nbsp;
- [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)]&nbsp;
+
 #### Tools and Technologies
-![Excel]<i class="fas fa-file-excel"></i>
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)&nbsp;
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
-[![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)]
-
-#### Environments
-
- ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for -the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-     
+![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)
+   
 </td>
     <td>
       
 #### Cloud Infrastructures
 
-[![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)]&nbsp 
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff)&nbsp 
 <br />
 
 <details>
