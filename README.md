@@ -9,7 +9,7 @@
 # About Me
 
 </br>
-- Currently working on: [Data Analyst] </br>
+- Currently working as: [Data Analyst] </br>
 - Open to: Freelance / Full-time opportunities </br>
 - Based in: [Hyderabad,India] </br>
 - Reach me at: priya.magapu.sk@gmail.com </br>
