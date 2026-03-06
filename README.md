@@ -52,8 +52,6 @@
 |  Google Data Analytics Professional Certificate | Google / Coursera | 2023| https://coursera.org/verify/professional-cert/W8VKB746SCM4|
 |  Python for Everybody | Coursera | 2022 | https://coursera.org/verify/EKCE5WYS2DUD |
 
-> 🔗 *View verified certificates on my [LinkedIn](https://www.linkedin.com/in/krishna-priya-magapu/)*
-
 ---
 
 ##  What I'm Currently Learning
