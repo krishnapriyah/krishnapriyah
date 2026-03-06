@@ -13,7 +13,7 @@
 - Open to: Freelance / Full-time opportunities </br>
 - Based in: [Hyderabad,India] </br>
 - Reach me at: priya.magapu.sk@gmail.com </br>
-- LinkedIn: [linkedin.com/in/yourprofile] </br>
+- LinkedIn: [www.linkedin.com/in/krishna-priya-magapu/] </br>
 <hr>
 </br>
 <table width="100%" >
