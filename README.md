@@ -32,7 +32,7 @@
 
 #### Tools and Technologies
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+
       
 #### Cloud Infrastructures
 
@@ -45,51 +45,38 @@
 
 
 
-## 🏅 Certifications
+##  Certifications
 
 | Certificate | Issuer | Year |
 |---|---|---|
 | 📊 Google Data Analytics Professional Certificate | Google / Coursera | 2024 |
-| 📈 Microsoft Power BI Data Analyst (PL-300) | Microsoft | 2024 |
 | 🐍 Python for Everybody | Coursera | 2023 |
 
 > 🔗 *View verified certificates on my [LinkedIn](https://www.linkedin.com/in/krishna-priya-magapu/)*
 
 ---
 
-## 🌱 What I'm Currently Learning
+##  What I'm Currently Learning
 
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas-%23150458?style=flat&logo=pandas&logoColor=white)&nbsp;
 
 ---
 
-## 🎯 Interests & Hobbies
+##  Interests & Hobbies
 
 <table>
   <tr>
     <td align="center">🌿<br><b>Gardening</b></td>
-    <td align="center">🐾<br><b>Pets</b></td>
+    <td align="center">🐾<br><b>Zoophilist</b></td>
     <td align="center">📚<br><b>Reading</b></td>
-    <td align="center">✈️<br><b>Travelling</b></td>
-    <td align="center">🎵<br><b>Music</b></td>
     <td align="center">🍳<br><b>Cooking</b></td>
   </tr>
 </table>
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krishnapriya&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnapriya&layout=compact&theme=default&hide_border=true" width="48%" />
-</p>
-
----
-
-## 🤝 Let's Connect
+## Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/krishna-priya-magapu/">
@@ -99,8 +86,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>Thanks for visiting! ⭐ Star a repo if you find it useful!</i>
