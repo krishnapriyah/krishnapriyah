@@ -9,23 +9,14 @@
 # About Me
 
 </br>
-- 🔧 I’m currently working on ...Web Technologies.
-
-- 💡 I’m curious about ...Dbms and Mysql.
-- 📖 I’m currently learning ...Azure.
-- ❄️ I’m looking to collaborate on ...Open Source Projects and Cloud Technologies.
-- 📫 How to reach me ...priya.magapu.sk@gmail.com.
-
+- Currently working on: [Data Analyst]
+-💼 Open to: Freelance / Full-time opportunities
+-📍 Based in: [Hyderabad,India]
+-📫 Reach me at: priya.magapu.sk@gmail.com
+-🔗 LinkedIn: [linkedin.com/in/yourprofile]
 <hr>
-
-
-
-
 </br>
-
-
 <table width="100%" >
-
  <tr>
     <td width="60%">
      
