@@ -48,7 +48,7 @@
 ##  Certifications
 
 | Certificate | Issuer | Year |Verify this at|
-|---|---|---|
+|---|---|---|---|
 |  Google Data Analytics Professional Certificate | Google / Coursera | 2023| https://coursera.org/verify/profession
 al-cert/W8VKB746SCM4|
 |  Python for Everybody | Coursera | 2023 |
