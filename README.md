@@ -47,9 +47,10 @@
 
 ##  Certifications
 
-| Certificate | Issuer | Year |
+| Certificate | Issuer | Year |Verify this at|
 |---|---|---|
-|  Google Data Analytics Professional Certificate | Google / Coursera | 2024 |
+|  Google Data Analytics Professional Certificate | Google / Coursera | 2023| https://coursera.org/verify/profession
+al-cert/W8VKB746SCM4|
 |  Python for Everybody | Coursera | 2023 |
 
 > 🔗 *View verified certificates on my [LinkedIn](https://www.linkedin.com/in/krishna-priya-magapu/)*
