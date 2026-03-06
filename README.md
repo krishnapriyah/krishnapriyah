@@ -1,4 +1,4 @@
-# Hey there👋, Welcome to my Github Profile
+# Hey there, Welcome to my Github Profile
 <h3 align="center"><b>Hi Buddy, I'm Krishna Priya </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h3>
 <p align="center">
   "Turning raw data into actionable insights."
