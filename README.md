@@ -67,8 +67,9 @@
   <tr>
     <td align="center">🌿<br><b>Gardening</b></td>
     <td align="center">🐾<br><b>Zoophilist</b></td>
-    <td align="center">📚<br><b>Reading</b></td>
+    <td align="center">🎨🧑‍🎨<br><b>Artisan</b></td>
     <td align="center">🍳<br><b>Cooking</b></td>
+    <td align="center">🪙<br><b>Numismatist</b></td>
   </tr>
 </table>
 
